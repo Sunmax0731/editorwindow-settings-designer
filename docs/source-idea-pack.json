@@ -1,0 +1,66 @@
+{
+  "rank": 68,
+  "domain": "UnityEditor",
+  "ideaNo": 6,
+  "ideaName": "EditorWindow・設定デザイナー",
+  "repository": "editorwindow-settings-designer",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaLookup": {
+    "exactPathFirst": "D:/AI/UnityEditor/created_idea_006_editorwindow-settings-designer",
+    "exactPathExists": true,
+    "fallbackSearched": false,
+    "fallbackResults": [],
+    "notes": "完全一致の created_idea と ZIP を使用した。"
+  },
+  "zipLookup": {
+    "exactZip": "D:/AI/UnityEditor/created_idea_006_editorwindow-settings-designer/idea_006_editorwindow-settings-designer.zip",
+    "exactZipExists": true,
+    "requiredFiles": [
+      "metadata.json",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md"
+    ],
+    "missingRequiredFiles": []
+  },
+  "zipMetadata": {
+    "domain": "UnityEditor",
+    "no": 6,
+    "platform": "UnityEditor",
+    "field": "Unity制作支援",
+    "integration": "",
+    "idea": "EditorWindow・設定デザイナー",
+    "overview": "UI Toolkit、EditorPrefs、Validation設定、コマンドをGUIで管理する。 入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+    "problem": "Editor拡張の設定や画面構成がコード寄りになりがち。",
+    "similar": "Unity Editor, Odin Inspector, Rider, Unity Asset Store Tools, Addressables, Memory Profiler",
+    "diff": "設定変更を安全にプレビューして保存できる。",
+    "parent": "Plugins",
+    "startPromptFile": "START_PROMPT.md",
+    "documents": [
+      "START_PROMPT.md",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md",
+      "metadata.json"
+    ],
+    "repositoryName": "editorwindow-settings-designer",
+    "repositoryTitle": "editorwindow-settings-designer",
+    "zipFile": "idea_006_editorwindow-settings-designer.zip"
+  },
+  "metadataRepositoryMatches": true,
+  "metadataZipMatches": true,
+  "initialRepositoryReadme": {
+    "existedBeforeCreation": false,
+    "note": "正式 repo が存在しなかったため README.md は存在しないと記録し、domain docs と created_idea ZIP を根拠に作成した。"
+  },
+  "mojibakePolicy": "ZIP本文や既存Markdownは丸写しせず、PICKUP行、metadata、domain docsから正式docsを再構成する。",
+  "unstableEvidencePolicy": "ZIPサイズ、生成時刻、絶対一時パスはQCDS固定根拠に使わない。"
+}

@@ -1,0 +1,21 @@
+{
+  "product": {
+    "repository": "editorwindow-settings-designer",
+    "title": "EditorWindow・設定デザイナー"
+  },
+  "items": [
+    {
+      "id": "editorwindow-settings-designer-happy",
+      "title": "EditorWindow・設定デザイナー happy",
+      "status": "ready",
+      "tags": [
+        "unityeditor"
+      ],
+      "windowName": "ClosedAlphaWindow",
+      "settingKey": "setting.happy",
+      "defaultValue": "enabled",
+      "owner": "closed-alpha",
+      "undoPolicy": "EditorWindow・設定デザイナー の確認観点"
+    }
+  ]
+}
